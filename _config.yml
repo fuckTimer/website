@@ -6,7 +6,7 @@ description: Hello, that's the official fuckTimer page.
 
 # User settings
 username: fuckTimer
-user_title: CS:GO RESTful API based SourceMod Timer
+user_title: RESTful API based SourceMod Timer for CS:GO
 
 # Google-analytics
 google-analytics:
